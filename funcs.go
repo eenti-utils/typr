@@ -1,3 +1,4 @@
+// Package typr contains utility conventions, type definitions and constants
 package typr
 
 // returns:
